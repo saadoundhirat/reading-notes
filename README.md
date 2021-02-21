@@ -14,7 +14,7 @@
    3. local repo  
    4. remote repo 
      
-   ## here is an image that show how this works
+  ## here is an image that show how this works
       
    ![GitHub work flow ](https://kevintshoemaker.github.io/StatsChats/GIT1.png)
    
