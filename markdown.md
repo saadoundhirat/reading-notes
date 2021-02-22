@@ -47,6 +47,6 @@ ________________________________________________________________________________
 
 account | links
 ------------ | -------------
-Git | https://github.com/saadoundhirat/reading-notes/edit/main/README
-Git-clone | https://saadoundhirat.github.io/reading-notes/
+my live page  | https://saadoundhirat.github.io/reading-notes/markdown
+Git-clone | https://saadoundhirat.github.io/reading-notes/Git
 
