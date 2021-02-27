@@ -10,7 +10,7 @@
 | ----------- | :---------------------------------------------------------------: |
 | LINKEDIN    | [LINKEDIN](https://www.linkedin.com/in/saadoun-dhirat-9b4086194/) |
 | TWITTER     |           [TWITTER](https://twitter.com/saadoun_dhirat)           |
-| FACEBOOK    |       [GMAIL ](https://web.facebook.com/Saadoun.aldhirat/)        |
+| FACEBOOK    |      [FACEBOOK ](https://web.facebook.com/Saadoun.aldhirat/)      |
 
 # **how to access my files :**
 
