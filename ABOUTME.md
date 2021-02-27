@@ -16,8 +16,8 @@
 
 <em>here i will include my file table along with another two table to show the contant of each file </em>
 
-| FILES                  |                          LINKS                           |
-| ---------------------- | :------------------------------------------------------: |
-| Code 102 Reading Notes | [CLICKHERE ](https://web.facebook.com/Saadoun.aldhirat/) |
-| Code 201 Reading Notes | [CLICKHERE ](https://web.facebook.com/Saadoun.aldhirat/) |
-| NEXT READ              | [CLICKHERE ](https://web.facebook.com/Saadoun.aldhirat/) |
+| FILES                  |                                           LINKS                                           |
+| ---------------------- | :---------------------------------------------------------------------------------------: |
+| Code 102 Reading Notes | [CLICKHERE ](https://saadoundhirat.github.io/reading-notes/Code%20102%20Reading%20Notes/) |
+| Code 201 Reading Notes | [CLICKHERE ](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/) |
+| NEXT READ              |                 [CLICKHERE ](https://web.facebook.com/Saadoun.aldhirat/)                  |
