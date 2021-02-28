@@ -76,5 +76,5 @@ and while script you will find that it contains alot of precise instructions suc
 before creating a calculation using that value.
 and there is something called variable where you store your values to do what ever you want with them and there is type of variabels called arrayes which allowe you to store more than on value inside them
 
-- Expressions evaluate into a single value.
-- Expressions rely on operators to calculate a value.
+> Expressions evaluate into a single value.
+> Expressions rely on operators to calculate a value.
