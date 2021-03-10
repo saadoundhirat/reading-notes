@@ -8,3 +8,6 @@
 | Read: 04                                          |            [read04](https://saadoundhirat.github.io/reading-notes/Read:%2004%20-%20HTML%20Links,%20CSS%20Layout,%20JS%20Functions)             |
 | Read: 05                                          |                          [read05](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/read05)                           |
 | Read: 06                                          |                          [read06](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/read06)                           |
+| Read: 07 Read: 07 - HTML Tables; JS Constructor Functions                                          |                          [read07](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/read06) 
+| Read: 08                                          |                          [read08](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/read06)                           |
+| Read: 09 Forms and Events                                          |                          [read09](https://saadoundhirat.github.io/reading-notes/Code%20201%20Reading%20Notes/read06)                           |
