@@ -46,3 +46,16 @@
   1. DRAWING SHAPES 
   2. APPLAYING STYLES AND COLORS 
   3. DRAWING TEXT 
+
+  Applying styles and colors
+If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
+
+fillStyle = color Sets the style used when filling shapes.
+strokeStyle = color Sets the style for shapes’ outlines. color is a string representing a CSS //color>, a gradient object, or a pattern object. We’ll look at gradient and pattern objects later. By default, the stroke and fill color are set to black (CSS color value #000000).
+Drawing text
+The canvas rendering context provides two methods to render text:
+
+*fillText(text, x, y [, maxWidth]) Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+
+strokeText(text, x, y [, maxWidth]) Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
+A fillText example The text is filled using the current fillStyle.
