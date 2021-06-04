@@ -2,7 +2,7 @@
 
 - **HELLO EVERYONE:**
 
-  My name is Sa'doun aldhirat |computer engineer graduated from tafila technical university TTU last year ,love programming I have been trained as an android developer mobile application also I have a good background in .Net frameworks, more than happy to be in this program because I have found what field I like in this industrial
+  My name is Sa'doun aldhirat |computer engineer graduated from tafila technical university TTU last year ,love programming I have been trained as an android developer mobile application also I have a background in .Net frameworks, more than happy to be in this program because I have found what field I like in this industrial
 
 # **how to contact me table:**
 
