@@ -59,6 +59,8 @@
   4-What are some examples of things that we could store in state?
     ** answer: - Forms & Counters or anythig will be handeld inside the component.
 
+# ## Things I want to know more about:
+1- what is refs and why we use it in forms.
 
 # resources:
 recource      | links
