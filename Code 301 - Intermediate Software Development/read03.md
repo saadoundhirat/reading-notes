@@ -44,4 +44,4 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 recource      | links
 ------------- | -------------
 Spread Operator    | [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavascript.plainenglish.io%2F8-ways-to-use-spread-operator-in-javascript-b66fcf016efe&psig=AOvVaw3EiC8eCn6m3WxU9m6a6mk2&ust=1623189818704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDfwrfDhvECFQAAAAAdAAAAABAD)
-React State Vs Props | [Link](https://www.youtube.com/watch?v=IYvD9oBCuJI)React State Vs  first thing to happen in the lifecycle of React | [Link](https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/#:~:text=to%20be%20updated%3F-,1.,invoked%20during%20the%20updating%20phase.)
+React State Vs Props | [Link]() |
