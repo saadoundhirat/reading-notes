@@ -24,5 +24,4 @@ ___
 recource      | links
 ------------- | -------------
 Thinking in React   | [Link](https://reactjs.org/docs/thinking-in-react.html)
-React tree | [Link](https://reactjs.org/docs/forms.html) |
-The Conditional (Ternary) Operator Explained | [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimelrian%2Fthinking-in-react-a-paradox-statement-33c19e2eb9e2&psig=AOvVaw3EjXC2O_pMM6YFR6u6aPf3&ust=1623363712606000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiCyaHLi_ECFQAAAAAdAAAAABAD) |
+React tree | [Link](https://reactjs.org/docs/forms.html) 
