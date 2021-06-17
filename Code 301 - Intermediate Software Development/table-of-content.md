@@ -15,7 +15,7 @@
 | Read07  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read07) |
 | Read08  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read08) |
 | Read09  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read09) |
-| Read10  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read02) |
+| Read10  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read10) |
 | Read11  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read02) |
 | Read12  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read02) |
 | Read13  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read02) |
