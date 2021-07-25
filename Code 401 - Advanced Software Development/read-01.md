@@ -23,7 +23,7 @@
 
 - big-Θ notation bounds the running time from both above and below, rather than just from above.
 
-- ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fbig-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c%2F&psig=AOvVaw3_Ikxeg0Zhu_kn2-wB4aPZ&ust=1627334518299000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDR9NGT__ECFQAAAAAdAAAAABAT)
+- ![](https://images.squarespace-cdn.com/content/v1/51e97622e4b001fd0a6bba71/1521928168525-QM8F87Q76TVYKLO33A0N/Big%2BO%2BNotation%2BSummary.jpg)
 
 
 ## Facts and myths about Python names and values
