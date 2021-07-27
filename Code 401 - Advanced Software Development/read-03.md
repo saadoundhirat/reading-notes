@@ -62,3 +62,11 @@ In Python, using the else statement, you can instruct a program to execute a cer
 - 1. raise allows you to throw an exception at any time.
 - 2. assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
 - 3. In the try clause, all statements are executed until an exception is encountered.
+
+### **resources**
+
+recource      | links
+------------- | -------------
+Reading and Writing Files in Python | [Link](https://realpython.com/read-write-files-python/)
+Python Exceptions| [Link](https://realpython.com/python-exceptions/)
+raise throw python| [Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fexceptions-in-python-a545249f1272&psig=AOvVaw2Ac_U0D6vkcfVMV3LpQ4Qj&ust=1627430244343000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDmkKL4gfICFQAAAAAdAAAAABAD)
