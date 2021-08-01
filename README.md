@@ -45,7 +45,7 @@
 | Read03  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-03) |
 | Read04  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-04) |
 | Read05  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-05) |
-| Read06  | [Click Here](#) |
+| Read06  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-06) |
 | Read07  | [Click Here](#) |
 | Read08  | [Click Here](#) |
 | Read09  | [Click Here](#) |
