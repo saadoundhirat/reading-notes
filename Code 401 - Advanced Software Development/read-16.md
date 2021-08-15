@@ -93,7 +93,7 @@
 
 3. Handle Missing Data : Missing data is a deceptively tricky issue in applied machine learning.First, just to be clear, you cannot simply ignore missing values in your dataset. You must handle them in some way for the very practical reason that most algorithms do not accept missing values.
 
-## Feature Engineering
+#### Feature Engineering
 
 - Feature engineering is about creating new input features from your existing ones, In general, you can think of data cleaning as a process of subtraction and feature engineering as a process of addition.
 
@@ -103,7 +103,7 @@
 2. You can bring in your own domain expertise.
 3. Most importantly, once you understand the "vocabulary" of feature engineering, you can bring in other people’s domain expertise!
 
-### Combine Sparse Classes
+#### Combine Sparse Classes
 
 Sparse classes (in categorical features) are those that have very few total observations. They can be problematic for certain machine learning algorithms, causing models to be overfit.
 
@@ -112,7 +112,7 @@ Sparse classes (in categorical features) are those that have very few total obse
 - As a rule of thumb, we recommend combining classes until each one has at least ~50 observations. As with any "rule" of thumb, use this as a guideline.
 
 
-## Algorithm Selection
+#### Algorithm Selection
 
 - we have 5 very effective machine learning algorithms for regression tasks.
 
