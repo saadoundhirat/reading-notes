@@ -21,12 +21,6 @@
 | Read17  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-17) |
 | Read18  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-18) |
 | Read19  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-19) |
-| Read20  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-20) |
-| Read21  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-21) |
-| Read22  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-22) |
-| Read23  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-23) |
-| Read24  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-24) |
-| Read25  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-25) |
 | Read26  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-26) |
 | Read27  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-27) |
 | Read28  | [Click Here](https://saadoundhirat.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read-28) |
